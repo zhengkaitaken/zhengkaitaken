@@ -1,7 +1,7 @@
 # hii! teenage dev here who codes in Node.js, Python, and C++ 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zhengkaitaken&show_icons=true&theme=tokyonight)
-![profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![profile views](https://komarev.com/ghpvc/?username=zhengkaitaken&color=blueviolet)
 
 
 im a big fan of K-pop and phonk, and i love listening to music while i code! welcome to my GitHub profile where you can find my projects and contributions.
